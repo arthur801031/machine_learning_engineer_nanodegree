@@ -1,2 +1,2 @@
-# machine-learning
-Content for Udacity's Machine Learning curriculum
+# Machine Learning Engineer Nanodegree from Udacity
+My projects for Udacity's Machine Learning curriculum
